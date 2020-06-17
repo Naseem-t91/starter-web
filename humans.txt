@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    jason toumeh jason@git.training @awesomejt
 
 # THANKS
 
