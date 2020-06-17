@@ -8,7 +8,7 @@
 i don't know if it is neseccery but will see
 
 ## How to contribute
-how is things going
+please fork this repository and than issue pull requests for review.
 
 ## Compyright
 
