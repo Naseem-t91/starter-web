@@ -8,3 +8,4 @@
 i don't know if it is neseccery but will see
 
 ## How to contribute
+how is things going
