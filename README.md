@@ -1,5 +1,5 @@
 # Starter Web Repo
- Adding a line for rebasing example. ADDIng a line for rebasinf. adding a line for rebasing example 3
+ Adding a line for rebasing example. ADDIng a line for rebasinf. adding a line for rebasing example 3, than more changes from myfuaurebraNCH 2
 ## Introduction
 
 ## Purpose
