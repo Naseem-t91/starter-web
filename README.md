@@ -12,5 +12,5 @@ please fork this repository and than issue pull requests for review.
 
 ## Compyright
 
-2014 Git.trainig.
+2014 Git.trainig. All right reserve
 
